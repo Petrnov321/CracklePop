@@ -1,4 +1,4 @@
-package com.engeto.euvatrates;
+package com.cracklepop;
 
 public class Main {
 
